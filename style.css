@@ -1,0 +1,11 @@
+body {
+    background-image: url(img/llustration-numbers-seamless-background.jpg);
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    color: rgb(224, 156, 30);
+    text-shadow: 3px 3px rgb(14, 17, 226);
+}
